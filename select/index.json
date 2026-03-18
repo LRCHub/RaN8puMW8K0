@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "A Little Of This",
+  "base_artist": "Grand Puba",
+  "createdAt": "2026-03-18T00:54:04.941979Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Of This",
+      "artist": "Grand Puba",
+      "has_synced": false,
+      "path": "select/01_A_Little_Of_This_Grand_Puba.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Little of This",
+      "artist": "Grand Puba",
+      "has_synced": false,
+      "path": "select/02_A_Little_of_This_Grand_Puba.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Little Of This (Paused)",
+      "artist": "Grand Puba",
+      "has_synced": true,
+      "path": "select/03_A_Little_Of_This_(Paused)_Grand_Puba.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Little Of This (LP Version)",
+      "artist": "Grand Puba",
+      "has_synced": true,
+      "path": "select/04_A_Little_Of_This_(LP_Version)_Grand_Puba.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Little of This (album version)",
+      "artist": "Grand Puba",
+      "has_synced": true,
+      "path": "select/05_A_Little_of_This_(album_version)_Grand_Puba.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Little of This (remix instrumental)",
+      "artist": "Grand Puba",
+      "has_synced": true,
+      "path": "select/06_A_Little_of_This_(remix_instrumental)_Grand_Puba.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Little of This (album version instrumental)",
+      "artist": "Grand Puba",
+      "has_synced": true,
+      "path": "select/07_A_Little_of_This_(album_version_instrumental)_Grand_Puba.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Little Of This (Acapella)",
+      "artist": "Grand Puba",
+      "has_synced": false,
+      "path": "select/08_A_Little_Of_This_(Acapella)_Grand_Puba.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Little of This and That",
+      "artist": "Pete Seeger",
+      "has_synced": false,
+      "path": "select/09_A_Little_of_This_and_That_Pete_Seeger.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "U Wanna Little of This (Ali Payami radio edit)",
+      "artist": "Ricki‐Lee",
+      "has_synced": false,
+      "path": "select/10_U_Wanna_Little_of_This_(Ali_Payami_radio_edit)_Ricki‐Lee.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "U Wanna Little Of This (WAWA Radio Edit)",
+      "artist": "Ricki Lee",
+      "has_synced": false,
+      "path": "select/11_U_Wanna_Little_Of_This_(WAWA_Radio_Edit)_Ricki_Lee.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "U Wanna Little Of This (WAWA Radio Edit)",
+      "artist": "Ricki-Lee",
+      "has_synced": false,
+      "path": "select/12_U_Wanna_Little_Of_This_(WAWA_Radio_Edit)_Ricki-Lee.txt"
+    }
+  ]
+}
